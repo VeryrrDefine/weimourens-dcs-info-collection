@@ -141,11 +141,16 @@ Exit
 ![area30](2026-08-17_12.26.58.png)
 ![area30-2](2026-08-17_12.41.55.png)
 
+## 区域30-01:timing的实验室
+
 ## 区域31:废弃医院
 [NO DATA]
 
 ## 区域32:无主的卧室
-[NO DATA]
+可通过区域30-01进入
+
+下为宣传图
+![area32](2fd50055eecbb6a8d64b41c64b24d03d.jpeg)
 
 ## 区域33:办公室……?
 [NO DATA]
@@ -233,4 +238,14 @@ Exit
 [2026/8/21 12:04:22.187] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [Modified] [CHAT] <Luosen1014> 你刚才不是说「？」吗？
 ```
 
+## Entity Unknown-03: Pomsciwojistaw
+**Entity U-03**为区域30-01的一个NPC，藏在墙内
+
+## Entity Unknown-04: Paloma Unzar
+**Entity U-04**为区域30-01的一个NPC，藏在天花板
+
+
 ![luosen1014 sent a modified message](entity-u-02.png)
+
+
+"Aggresive"（敌对）, "Friendly"（友好）， "Unknown（未知）
