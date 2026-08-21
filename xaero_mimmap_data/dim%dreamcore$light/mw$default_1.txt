@@ -1,0 +1,16 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:21-To area 04:21:-10000:151:-9007:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:20-To area 0A:20:10269:85:10045:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:19-To area 02:19:-9994:151:-9863:15:false:0:gui.xaero_default:false:0:0:false
+waypoint:18-To area 30:18:10219:145:10116:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:NPC-1:NP:10118:81:10179:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:17-To area 11:17:10230:95:10030:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:16-To unknown area:16:10438:116:10096:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:15-To unknown area:15:10431:116:10157:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:14-To area 11:14:10414:116:10127:19:false:0:gui.xaero_default:false:0:0:false
+waypoint:NPC-2:NP:10380:135:9992:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:13-To area 20:13:-9990:151:-9415:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:12-To area 27:12:10117:140:-79:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:11-To area 11:11:10159:97:9996:18:false:0:gui.xaero_default:false:0:0:false

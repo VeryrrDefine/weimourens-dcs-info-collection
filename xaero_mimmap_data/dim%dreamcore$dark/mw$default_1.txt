@@ -1,0 +1,5 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:5-To area 30:5:10038:2:50:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:4-To area 06:4:10048:2:-71:20:false:0:gui.xaero_default:false:0:0:false

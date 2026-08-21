@@ -1,0 +1,4 @@
+Xaero迷你地图标记点数据
+
+隔离版本请复制到/path/to/.minecraft/versions/${version_name}/xaero/minimap/Multiplayer_${hostname}
+否则使用/path/to/.minecraft/xaero/minimap/Multiplayer_${hostname}

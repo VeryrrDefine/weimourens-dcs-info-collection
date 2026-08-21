@@ -183,8 +183,8 @@ Exit
 * 区域22 -204 55 -10274附近（目击者）
 * 区域24 114350 13 114291附近（截至2026年8月20日，具体坐标通过自由视角mod远程复制客户端实体数据查明，具体行为未查明）
 
-## Entity Aggresive-02: Unnamed
-**Entity A-02**未探明
+## Entity Aggresive-02: “The_lost”
+**Entity A-02**移动较慢，通常跑一会儿就可使该实体失去追踪目标
 
 已知出现地点：
 * 区域07-02
@@ -222,3 +222,15 @@ Exit
 已知出现地点：
 * 区域01
 * 区域30的20002 51.5 20017
+
+
+## Entity Unknown-02: Doppelganger possesion
+**Entity U-02**为玩家san值过低后生成的一个实体。该实体可以自主发言。
+
+辨别该发言的方式可以通过不易打出的中文直角引号`「」`和玩家发言左边“服务器修改”灰色杠辨别。
+
+```
+[2026/8/21 12:04:22.187] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [Modified] [CHAT] <Luosen1014> 你刚才不是说「？」吗？
+```
+
+![luosen1014 sent a modified message](entity-u-02.png)

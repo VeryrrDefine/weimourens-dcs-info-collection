@@ -1,0 +1,52 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Road 2:R2:-195:28:-63:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:Road 1:R1:-257:29:-10:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:H4:H4:-244:29:-54:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:H3:H3:-225:29:-48:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Hole 2:H2:-201:28:-25:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:41-Action unknown:41:-195:35:-98:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:40-To area 30:40:-52:26:219:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:39-To area 10:39:10027:66:9912:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:38-To area 24:38:113593:-49:115373:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:37-To area 26:37:-10068:-24:-81:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:36-To area 30:36:9895:19:-9:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:37-To area 0A:37:9997:19:-67:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:Hole 1:H1:-198:27:-8:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:35-To unknown area:35:196:-3:91:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:34-To area 38:34:96:32:83:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:D1-Lightmare below:D1:-297:80:-10274:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:33-To area 22:33:-187:57:-10019:16:false:0:gui.xaero_default:false:0:0:false
+waypoint:32-To area 02:32:-189:57:-10021:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:31-To area 17:31:-8743:113:-9706:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:30-To area 10:30:-8757:123:-9724:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:29-To area 0B:29:-9919:31:-9740:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:28-To area 11:28:114714:56:114330:20:false:0:gui.xaero_default:false:0:0:false
+waypoint:27-To area 09:27:127:54:457:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:26-To area 0A:26:139:54:456:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:25-To area 27:25:204:1:80:19:false:0:gui.xaero_default:false:0:0:false
+waypoint:24-2 ways to area 07:24:114178:49:114225:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:23-To area 24:23:-10326:28:-9754:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:22-To area 30:22:96:49:178:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:21-random:21:19992:51:20008:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:20-To area 30:20:20019:50:20124:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:19-To area 37:19:20009:51:20026:20:false:0:gui.xaero_default:false:0:0:false
+waypoint:18-To area 21:18:-176:-20:450:16:false:0:gui.xaero_default:false:0:0:false
+waypoint:17-To area 07:17:-185:-20:452:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:16-To area 20:16:-9970:3:36:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:15-To area 13:15:-9968:3:36:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:14-To area 18:14:-10023:1:-6:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:13-To area 02:13:2:18:17:16:false:0:gui.xaero_default:false:0:0:false
+waypoint:12-To area 12:12:2:17:36:15:false:0:gui.xaero_default:false:0:0:false
+waypoint:11-To area 11:11:-236:61:260:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:10-To area 07-02:10:49:10:36:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:9-To area 38:9:144:10:1:18:false:0:gui.xaero_default:false:0:0:false
+waypoint:8-To area 30:8:58:16:2:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:7-To area 09:7:10:27:89:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:6-To area 21:6:-1:25:4:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:5-To area 11:5:-146:23:197:20:false:0:gui.xaero_default:false:0:0:false
+waypoint:4-To area 08:4:-99:21:101:16:false:0:gui.xaero_default:false:0:0:false
+waypoint:3-To area 16:3:-204:55:71:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:2-To area 02:2:10060:76:-10004:16:false:0:gui.xaero_default:false:0:0:false
+waypoint:1-To area 02:1:9991:-1:-9940:20:false:0:gui.xaero_default:false:0:0:false

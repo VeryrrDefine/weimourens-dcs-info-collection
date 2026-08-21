@@ -1,0 +1,18 @@
+//waypoints config options
+usingMultiworldDetection:false
+ignoreServerLevelId:false
+defaultMultiworldId:mw156,0,-157
+teleportationEnabled:false
+usingDefaultTeleportCommand:true
+sortType:NONE
+sortReversed:false
+
+//other config options
+ignoreHeightmaps:false
+
+//dimension types (DO NOT EDIT)
+dimensionType:minecraft$overworld:minecraft$overworld
+dimensionType:dreamcore$dark:dreamcore$dark
+dimensionType:dreamcore$light:dreamcore$light
+dimensionType:dreamcore$dusksea:dreamcore$dusksea
+//third-party waypoints
