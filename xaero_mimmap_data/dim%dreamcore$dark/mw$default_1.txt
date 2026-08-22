@@ -1,5 +1,36 @@
 #
 #waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
 #
+waypoint:ET:ET:1991:103:4997:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:ES:ES:1981:103:4997:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:ER:ER:1981:110:4997:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:EQ:EQ:1994:110:4999:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:EP eternity points:EP:1995:110:5005:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:EO:EO:2018:110:5005:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:EN:EN:2017:110:4999:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:EM:EM:2011:109:4998:15:false:0:gui.xaero_default:false:0:0:false
+waypoint:EL:EL:2011:109:4971:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:EK:EK:2002:109:4971:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:EJ:EJ:2002:109:4981:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:EI:EI:1993:109:4982:18:false:0:gui.xaero_default:false:0:0:false
+waypoint:EH:EH:1993:109:4977:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:EG:EG:1981:109:4977:20:false:0:gui.xaero_default:false:0:0:false
+waypoint:EF:EF:1981:109:4990:18:false:0:gui.xaero_default:false:0:0:false
+waypoint:EE:EE:1963:115:4999:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:ED:ED:1970:115:4999:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:EC:EC:1970:121:4999:15:false:0:gui.xaero_default:false:0:0:false
+waypoint:EB Extended Buchholz Ordinal:EB:1982:121:4999:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:EA :EA:1986:116:4998:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:E9:E9:2027:115:4997:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:E8:E8:2033:116:4991:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:E7:E7:2026:116:4968:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:E6:E6:1996:115:4967:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:E5:E5:1996:104:4967:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:E4:E4:2003:104:4968:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:E3:E3:2009:103:4968:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:E2:E2:2011:103:4992:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:E1:E1:2024:103:4992:19:false:0:gui.xaero_default:false:0:0:false
+waypoint:7-Exit:7:2038:104:4982:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:6-Non fixed action:6:55:90:5003:12:false:0:gui.xaero_default:false:0:0:false
 waypoint:5-To area 30:5:10038:2:50:6:false:0:gui.xaero_default:false:0:0:false
 waypoint:4-To area 06:4:10048:2:-71:20:false:0:gui.xaero_default:false:0:0:false

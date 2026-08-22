@@ -11,8 +11,8 @@ sortReversed:false
 ignoreHeightmaps:false
 
 //dimension types (DO NOT EDIT)
-dimensionType:minecraft$overworld:minecraft$overworld
 dimensionType:dreamcore$dark:dreamcore$dark
-dimensionType:dreamcore$light:dreamcore$light
 dimensionType:dreamcore$dusksea:dreamcore$dusksea
+dimensionType:dreamcore$light:dreamcore$light
+dimensionType:minecraft$overworld:minecraft$overworld
 //third-party waypoints

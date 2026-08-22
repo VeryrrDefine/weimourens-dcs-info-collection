@@ -1,6 +1,16 @@
 #
 #waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
 #
+waypoint:gui.xaero_deathpoint:D:3218:138:-1:0:false:1:gui.xaero_default:false:0:1:true
+waypoint:gui.xaero_deathpoint_old:D:3218:138:-1:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:46-To unknown area:46:-4979:20:-200:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:45-To area 30-01:45:1511:56:962:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:button:bu:-266:27:-28:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:R3:R3:-257:27:-38:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:44-To area 0A-02:44:-131:20:-55:19:false:0:gui.xaero_default:false:0:0:false
+waypoint:43-To area 02:43:-116:-50:-144:20:false:0:gui.xaero_default:false:0:0:false
+waypoint:42-To area 38:42:-252:62:109:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:jump:J:114561:66:20:6:false:0:gui.xaero_default:false:0:0:false
 waypoint:Road 2:R2:-195:28:-63:9:false:0:gui.xaero_default:false:0:0:false
 waypoint:Road 1:R1:-257:29:-10:3:false:0:gui.xaero_default:false:0:0:false
 waypoint:H4:H4:-244:29:-54:7:false:0:gui.xaero_default:false:0:0:false
@@ -14,7 +24,7 @@ waypoint:37-To area 26:37:-10068:-24:-81:4:false:0:gui.xaero_default:false:0:0:f
 waypoint:36-To area 30:36:9895:19:-9:12:false:0:gui.xaero_default:false:0:0:false
 waypoint:37-To area 0A:37:9997:19:-67:7:false:0:gui.xaero_default:false:0:0:false
 waypoint:Hole 1:H1:-198:27:-8:8:false:0:gui.xaero_default:false:0:0:false
-waypoint:35-To unknown area:35:196:-3:91:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:35-To area 30:35:196:-3:91:7:false:0:gui.xaero_default:false:0:0:false
 waypoint:34-To area 38:34:96:32:83:1:false:0:gui.xaero_default:false:0:0:false
 waypoint:D1-Lightmare below:D1:-297:80:-10274:12:false:0:gui.xaero_default:false:0:0:false
 waypoint:33-To area 22:33:-187:57:-10019:16:false:0:gui.xaero_default:false:0:0:false

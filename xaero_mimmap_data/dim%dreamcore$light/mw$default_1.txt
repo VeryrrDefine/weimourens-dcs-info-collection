@@ -1,6 +1,10 @@
 #
 #waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
 #
+waypoint:2-To area 0A:2:9852:140:-88:18:false:0:gui.xaero_default:false:0:0:false
+waypoint:gui.xaero_deathpoint:D:9930:105:10075:0:false:1:gui.xaero_default:false:0:1:true
+waypoint:gui.xaero_deathpoint_old:D:9930:105:10075:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:1-To area 11:1:-208:158:-22:7:false:0:gui.xaero_default:false:0:0:false
 waypoint:21-To area 04:21:-10000:151:-9007:1:false:0:gui.xaero_default:false:0:0:false
 waypoint:20-To area 0A:20:10269:85:10045:1:false:0:gui.xaero_default:false:0:0:false
 waypoint:19-To area 02:19:-9994:151:-9863:15:false:0:gui.xaero_default:false:0:0:false
