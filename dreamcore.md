@@ -68,7 +68,7 @@ Exit
 可从区域02-02去往
 存在躺在地上的敌对实体
 
-文档作者留言：一上来有只狗就把我当日本人整
+文档作者留言：一上来有只狗就把我当狗整
 
 ## 区域08:滑滑梯
 可从区域02-02去往
@@ -193,6 +193,8 @@ Exit
 已知出现地点：
 * 区域07-02
 
+文档作者留言：把他当狗整就行了
+
 ## Entity Aggresive-03: “潜伏者”
 **Entity A-03**未探明
 
@@ -229,13 +231,16 @@ Exit
 
 
 ## Entity Unknown-02: Doppelganger possesion
-**Entity U-02**为玩家san值过低后生成的一个实体。该实体可以自主发言。
+**Entity U-02**为玩家san值=0死亡后生成的一个实体。（并不总是这样）该实体可以自主发言。
 
 辨别该发言的方式可以通过不易打出的中文直角引号`「」`和玩家发言左边“服务器修改”灰色杠辨别。
 
 ```
 [2026/8/21 12:04:22.187] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [Modified] [CHAT] <Luosen1014> 你刚才不是说「？」吗？
 ```
+![luosen1014 sent a modified message](entity-u-02.png)
+
+文档作者留言：$你刚才不是说「\alpha\mapsto你刚才不是说「\alpha」吗？ \text{fixed point}」吗？$
 
 ## Entity Unknown-03: Pomsciwojistaw
 **Entity U-03**为区域30-01的一个NPC，藏在墙内
@@ -244,7 +249,14 @@ Exit
 **Entity U-04**为区域30-01的一个NPC，藏在天花板
 
 
-![luosen1014 sent a modified message](entity-u-02.png)
 
+# 机制
 
-"Aggresive"（敌对）, "Friendly"（友好）， "Unknown（未知）
+## san值
+初始100%,死亡后设为80%
+
+san值为0会出现VHS故障效果，当有玩家在附近，死亡后会生成**Entity U-02**
+
+减少san值的方式有：玩家(20)血量每减1,san值减1；亮度太低时会减少san值。
+
+升高san值的方式：在？？环境中在水中游泳；靠近亮度高的地方。
