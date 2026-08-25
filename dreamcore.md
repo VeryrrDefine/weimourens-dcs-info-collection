@@ -25,11 +25,11 @@
 <br />
 
 
-Safete等级说明:
+Safety等级说明:
 
 1. 等级1：无有害实体（大多数层级）
-2. 等级2：存在至少1个有害实体，密度较小（07-02, 0A-02, 13, 22, 24）
-3. 等级3：存在至少6个有害实体，密度较大（30-31）
+2. 等级2：存在至少1个有害实体，密度较小（07-02, 0A-02, 22, 24）
+3. 等级3：存在至少6个有害实体，密度较大（30-31, 13）
 
 ## 区域01: 梦之酒店
 Safety等级: 1
@@ -146,7 +146,7 @@ Safety等级: 1
 
 从区域06正z轴方向去往
 ## 区域13:全是红砖的区域
-Safety等级: 2
+Safety等级: 3
 
 可从区域0A去往
 ## 区域14:黄昏之海(Dusksea)
@@ -161,7 +161,8 @@ Safety等级: 1
 Safety等级: 1
 
 ## 区域17:300层楼梯
-Safety等级: 1
+与区域15为同一区域，见[区域15](#区域15螺旋楼梯)
+
 
 ## 区域18:The end
 Safety等级: 1
@@ -315,8 +316,20 @@ Safety等级: 1
 
 文档作者留言：见区域0A-02文档
 
-## Entity Aggresive-04: 巨人
+## Entity Aggresive-04
 **Entity A-04**未探明，由Jesse.C发现。
+![Jesse.C观测到的Entity A-04](./dd2153d4320c243bed5e56a5ef0518b6.png)
+
+## Entity Aggresive-05
+**Entity A-05**未探明，由Jesse.C发现。
+![Jesse.C观测到的Entity A-05](image-2.png)
+
+
+## Entity Neutral-01
+**Entity N-01**未探明。
+已知出现地点：
+* 区域07-02
+* 区域13
 
 
 ## Entity Friendly-01: Louis
@@ -341,13 +354,14 @@ Safety等级: 1
 
 白镜锚点——寻找失踪的前L.O.D高层，并探寻被L.O.D埋藏的阴谋
 
-## Entity Unknown-01
+## Entity Unknown-01: 黑袍
 **Entity U-01**为区域01梦之酒店中Louis正z轴边的一个实体。
 其也在
 
 已知出现地点：
 * 区域01
 * 区域30的20002 51.5 20017
+* 区域12
 
 
 ## Entity Unknown-02: Doppelganger possesion
