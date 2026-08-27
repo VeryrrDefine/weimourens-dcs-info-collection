@@ -255,15 +255,18 @@ Safety等级: 2
 Safety等级: 1
 ![area30-35](image-3.png)
 
+区域30-39去往。
 
 ## 区域30-39
 Safety等级: 1
 
 带皮尔斯离开
 
-## 区域36:海上加油站
-[NO DATA]
+区域30-34通关boss（LightMare 200血量）去往。
 
+
+## 区域36:海上加油站
+![Found album](image-4.png)
 ## 区域37:闲人免进
 Safety等级: 1
 
@@ -388,6 +391,10 @@ Safety等级: 1
 ![luosen1014 sent a modified message](entity-u-02.png)
 
 文档作者留言：$你刚才不是说「\alpha\mapsto你刚才不是说「\alpha」吗？ \text{fixed point}」吗？=\mathrm{Y}(1,3,4,2,5,8,10)$
+
+
+## Entity Unknown-03: ???
+可从区域30-34找到
 
 <del>
 
