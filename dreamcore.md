@@ -23,13 +23,15 @@
 <br />
 <br />
 <br />
+<br />
+<br />
 
 
 Safety等级说明:
 
 1. 等级1：无有害实体（大多数层级）
-2. 等级2：存在至少1个有害实体，密度较小（07-02, 0A-02, 22, 24）
-3. 等级3：存在至少6个有害实体，密度较大（30-31, 13）
+2. 等级2：存在至少1个有害实体，密度较小（07-02, 0A-02, 22, 24, 30-34）
+3. 等级3：存在至少6个有害实体，密度较大（30-31, 30-33, 13）
 
 ## 区域01: 梦之酒店
 Safety等级: 1
@@ -66,17 +68,19 @@ Safety等级: 1
 Safety等级: 1
 ## 区域02-02-02:跑酷圣地
 Safety等级: 1
-## 区域03:草地长廊 (unreachable)
+## 区域03:草地长廊 (unreachable after 6/20)
 Safety等级: 1
 
 Exit
 1. 走到草地长廊的尽头可以前往区域04
 ## 区域04:图书馆
 Safety等级: 1
-1. 第2次更新前存在一个按钮可以通往区域05
-## 区域05:立方体 (unreachable)
+1. 第2次更新前存在一个按钮(10024 30 9994（注：该按钮已失效）)可以通往区域05
+## 区域05:立方体 (unreachable after 2/23)
 Safety等级: 1
 1. 立方体的顶端可以通往区域06
+
+原位置可能位于overworld 10000 40 9000片区，截图已丢失
 ## 区域06:暗走廊
 Safety等级: 1
 1. 正z轴方向可去往区域12
@@ -129,6 +133,15 @@ Safety等级: 1
 
 可从区域09去往（房子端）
 
+## 区域0C:truely? (unreachable after 6/20)
+
+![area 0c](2026-03-08_18.42.03.png)
+
+## 区域0D:建设服 2026/02/09 红砖迷宫  
+与区域13为同一区域，见[区域13](#区域13红砖迷宫)
+![area0d](2026-02-09_23.19.10.png)
+
+> 我并不位于建设组内，本人已无法通过正常手段进入建设服：![closed](image-5.png)
 
 
 ## 区域10:露天图书馆
@@ -145,7 +158,8 @@ Safety等级: 1
 Safety等级: 1
 
 从区域06正z轴方向去往
-## 区域13:全是红砖的区域
+
+## 区域13:红砖迷宫
 Safety等级: 3
 
 可从区域0A去往
@@ -209,10 +223,10 @@ Safety等级: 1
 可从区域07去往
 ![area30](2026-08-17_12.41.55.png)
 
-### 区域30-01:timing的实验室
+### 区域30-01:timing的实验室 (unreachable after complete plot)
 Safety等级: 1
 
-### 区域30-31 or 713-02:废弃医院
+### 区域30-31 or 713-02:废弃医院 (unreachable after complete this area)
 Safety等级: 3
 
 可通过区域30-01（第二站）进入
@@ -231,7 +245,7 @@ Safety等级: 3
 最好备上不死图腾（防止血量过低似了）和风弹（暂时驱逐敌人）
 
 [查看记录2（剧透预警）](./entities/aggre2.md)
-### 区域30-32 or 713-01:无主的卧室
+### 区域30-32 or 713-01:无主的卧室 (unreachable after complete this area)
 Safety等级: 1
 
 可通过区域30-01（第一站）进入
@@ -241,23 +255,23 @@ Safety等级: 1
 
 [查看记录1（剧透预警）](./entities/aggre1.md)
 
-## 区域30-33:办公室……?
+## 区域30-33:办公室……? (unreachable after complete this area)
 Safety等级: 3
 
 ![area30-33](2026-08-26_13.56.02.png)
 
-## 区域30-34 or 未知的地方-1:L.O.D地下室
+## 区域30-34 or 未知的地方-1:L.O.D地下室 (unreachable after complete this area)
 Safety等级: 2
 
 ![area30-34](2026-08-26_14.18.36.png)
 
-## 区域30-35:向日葵田
+## 区域30-35:向日葵田 (unreachable after plot)
 Safety等级: 1
 ![area30-35](image-3.png)
 
 区域30-39去往。
 
-## 区域30-39
+## 区域30-39  (unreachable after plot)
 Safety等级: 1
 
 带皮尔斯离开
@@ -279,6 +293,7 @@ Safety等级: 1
 有2个NPC，xaeromap看着很大其实不大
 ![area38](2026-08-19_11.55.27.png)
 
+## 区域40 (保留区域)
 
 # 实体列表
 
@@ -421,3 +436,34 @@ san值为0会出现VHS故障效果，无论SAN值如何，玩家都会在约6秒
 升高san值的方式：在？？环境中在水中游泳；block亮度>=12(+sky亮度？)时san值会升高。
 
 ![vhs error](image.png)
+
+# 杂项
+
+
+## 有关建设群的资料
+
+建设群可能有30+人，与建设服有关，进入方式未知。
+
+![3](image-6.png)
+
+DCS存在内群“Dreamcore_Server内群”，前身为backrooms交流群，该内群实际上无用。
+
+DCS建设群，推测为讨论下一次更新的计划，以及服务器的世界观，有正确的建设服IP的群。
+
+## sanity & scanner mod资料
+sanity 和 scanner同属包名`com.lookout3d`，但两个mod并非出自Lookout3D之手。该两个mod可能由dygm和某个未知人士制作。
+
+sanity和scanner mod采用了两端分离方式，对外提供client+common版本，而server+common版本不公开，仅向DreamcoreServer使用。
+
+因此sanity和scanner mod的client版本无法在未安装server+common版本的服务器/单人游戏上正常运行。
+
+## 伪人 资料
+伪人属于sanity mod，伪人的自主发言特性由sanity的server+common版本完成。
+
+## STUN打洞资料
+
+服务器使用STUN打洞来规避使用公网服务器上的frp。
+
+![Possibly dygm's network](a2c067325f5902f87102ed0b1fea5db6.png)
+
+![Nat types](bf65318e81fff08037223e691bcfb8e7.png)
