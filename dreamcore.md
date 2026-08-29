@@ -40,6 +40,29 @@ Safety等级说明:
 3. 区域20, 21...存储第3次更新的区域，以此类推
 4. 区域编号的第二位数超过10时，使用A, B, C顺延下去，例如1A代表第一次更新的第11个区域。
 5. 区域编号9999999990,9999999991...用于存储只在建设服中开放的内容，若是正式服后的更新出现了该内容，则更改为两位数字字母区域编号，原来的999999999X编号保留。
+
+## self-protect rules in the DC Constructing group and others.
+1.  我不会向任何人发送恶意软件。(* 参考2024/3/27)
+    I will not send any malicious softwares to anyone.
+
+2.  在发送尚未更新的机制，地图，截屏，剧情和世界观设定到DreamCore_Server群前，我必须得到其他人同意，我才会发送。(* 防剧透)
+    Before sending (Any not released new features, maps, screenshots, plots, world background settings) to the public group(DreamCore_Server), I need to get agreed from other persons in the DC Constructing group.
+
+3.  更多未被正式更新的信息会被写入私有仓库，而不会被写入公共仓库。(* 防剧透)
+    More information in the DC constructing server will be written in a private repo, and not to be stored in a public repo, before a releasely update.
+
+4.  在建筑之前，我需要理解其他人的想法。
+    I need to get other persons' ideas before I constructing in the DC Constructing server.
+
+5.  提出新的建筑/机制前，我会思考对于梦核服务器是否合适。(* 参考苏维埃宫)
+    I will think is (new building & features) proper to the dreamcore server before it was mentioned.
+
+6.  我不会破坏玩家的游戏体验。
+    I should not break any player's gaming experience.
+
+7.  我不会剧透新的机制。(* 2026/8/26, 防剧透)
+    I should not send some new features in the group.
+
 ## 区域01: 梦之酒店
 Safety等级: 1
 
