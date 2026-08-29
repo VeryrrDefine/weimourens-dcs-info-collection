@@ -352,12 +352,11 @@ Safety等级: 1
 ![Jesse.C观测到的Entity A-04](./dd2153d4320c243bed5e56a5ef0518b6.png)
 
 ## Entity Aggresive-05
-**Entity A-05**未探明，由Jesse.C发现。
-![Jesse.C观测到的Entity A-05](image-2.png)
+与[Entity N-01为同一实体](#entity-neutral-01)
 
-
-## Entity Neutral-01
+## Entity Neutral-01: The_wanderer
 **Entity N-01**未探明。
+![Jesse.C观测到的Entity N-01](image-2.png)
 已知出现地点：
 * 区域07-02
 * 区域13
@@ -410,6 +409,9 @@ Safety等级: 1
 
 ## Entity Unknown-03: ???
 可从区域30-34找到
+
+## Entity Unknown-04: ???
+可从区域02-02-02, 区域11找到
 
 <del>
 
@@ -507,3 +509,23 @@ brs群正式改为DreamCore Server内群
 早上 dygm通过迁移napcat程序到Linux，缓解了机器人频繁掉线问题
 晚上 军师 加入群聊，并说了服务器联盟的事
 ```
+## 各个人士资料
+
+### 建设组内
+WEAI_昔日: 曾用名weimouren，服主，建设组内策划组组长
+
+dygm: 建设组内技术部组长，熟悉Java
+
+Mirairoma: 建设组内建筑/策划
+
+a(ahh_mc): 建设组内建设/策划
+
+wmry: 建设组内建筑
+
+1: sanity & scanner模组的作者
+
+> 此6人所负责的内容是通过部分泄露的建设组内的聊天记录而判断的。
+
+### 建设组外
+
+### 位置未知
